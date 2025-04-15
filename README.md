@@ -7,6 +7,10 @@
 
 _Designed for developers and IT professionals, g-sniffer provides an intuitive interface for diagnosing network activity, debugging process communications, and enhancing overall network security analysis._
 
+# Virustotal
+> [!TIP]
+> [Virustotal Scan Result](https://www.virustotal.com/gui/file-analysis/NjE3Y2RjNDZlZDQ4NGVjZWJjMzZkYWRkNjUzODkxNzM6MTc0NDczMDU4Mw==)
+
 # Showcase
 
 ![image](https://github.com/user-attachments/assets/1a57c558-b9ed-4b33-b153-865980f18489)
